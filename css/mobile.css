@@ -1,0 +1,28 @@
+#navebar{
+    height: 100px;
+}
+#navibar-contender{
+    flex-direction: column;
+}
+#featues-contender{
+    grid-template-columns: 1fr;
+
+}
+#product-contender{
+    flex-direction: column;
+}
+#itens{
+    width: 90%;
+}
+.item{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#testemunhas{
+    flex-direction: column;
+    text-align: center;
+}
+#galeria-contender{
+    grid-template-columns: 1fr;
+}
